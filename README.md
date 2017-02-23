@@ -1,2 +1,6 @@
 # Piazza
-Linkki Netmillerin piazza-repositoryyn
+Linkki Netmillerin piazza-repositoryyn :
+
+<https://github.com/netmiller/piazza>
+
+
